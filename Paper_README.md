@@ -12,3 +12,6 @@ https://blog.csdn.net/jteng/article/details/74905923
 
 3.【目标检测】R-CNN论文详解
 https://www.jianshu.com/p/c1696c27abf8
+
+4. 一文读懂目标检测：R-CNN、Fast R-CNN、Faster R-CNN、YOLO、SSD
+https://blog.csdn.net/v_JULY_v/article/details/80170182
